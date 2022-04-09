@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "echo \"NPM Script not implemented\" && exit 1",
-    "start": "webpack --mode development", 
+    "": "webpack --mode development", 
     "prod": "webpack --mode production"
   },
   "devDependencies": {
